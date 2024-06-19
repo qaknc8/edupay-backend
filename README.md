@@ -1,4 +1,5 @@
 # EduPay
+![logo](https://github.com/qaknc8/edupay-backend/assets/104825451/18aa99c4-3a47-4d3d-915d-67aec6b490dd)
 
 학원비 청구 및 결제 자동화로 학원 운영의 효율성을 높이고, 학부모에게 편의를 주기 위한 사이트입니다.
 
@@ -22,12 +23,6 @@
   - 연도 및 월별의 전체 결제 건수와 총액 통계를 제공합니다.
 
 ## 팀 소개
-<style>
-  td {
-    width: 15%;
-  }
-</style>
-
 <table>
   <tr> 
     <td><img src="https://api.dicebear.com/9.x/rings/svg?seed=Missy" alt="avatar" /><br /><sub><b>팀장 정지용</b></sub><br /></td>
